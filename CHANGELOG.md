@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-19)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,7 +34,8 @@ This release closes the following issue:
 
 <details>
 
--   [`7e400e0`](https://github.com/stdlib-js/stdlib/commit/7e400e030ed237390ac962a15f031d15708bd381) - **feat:** add C implementation for `stats/base/dists/exponential/stdev` [(#4063)](https://github.com/stdlib-js/stdlib/pull/4063) _(by JoyBoy, Philipp Burckhardt)_
+-   [`8553770`](https://github.com/stdlib-js/stdlib/commit/85537708442675d6bc1bf5dad5aaf252cecb82ac) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`7e400e0`](https://github.com/stdlib-js/stdlib/commit/7e400e030ed237390ac962a15f031d15708bd381) - **feat:** add C implementation for `stats/base/dists/exponential/stdev` [(#4063)](https://github.com/stdlib-js/stdlib/pull/4063) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
 </details>
 
@@ -48,8 +49,8 @@ This release closes the following issue:
 
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   JoyBoy
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
