@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-21)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 -   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
